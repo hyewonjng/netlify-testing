@@ -1,0 +1,12 @@
+{"type": "FeatureCollection", "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } }, "features": [{ "type": "Feature", "properties": { "name": "롯데리아 소공2호점 11825032"}, "geometry": {"type": "Point", "coordinates": [126.9819989, 37.5654446]}},
+{ "type": "Feature", "properties": { "name": "폴바셋 롯데백화점 본점 34677836"}, "geometry": {"type": "Point", "coordinates": [126.9817994, 37.5645836]}},
+{ "type": "Feature", "properties": { "name": "크리스피크림도넛 롯데백화점본점 11781400"}, "geometry": {"type": "Point", "coordinates": [126.980941, 37.5646458]}},
+{ "type": "Feature", "properties": { "name": "BHC치킨 명동본점 1239436600"}, "geometry": {"type": "Point", "coordinates": [126.9838633, 37.5645942]}},
+{ "type": "Feature", "properties": { "name": "뚜레쥬르 종로점 1906058325"}, "geometry": {"type": "Point", "coordinates": [126.9842994, 37.569983]}},
+{ "type": "Feature", "properties": { "name": "스타벅스 레스케이프호텔R점 1547705533"}, "geometry": {"type": "Point", "coordinates": [126.9794195, 37.5600023]}},
+{ "type": "Feature", "properties": { "name": "공차 신세계백화점본점 36798470"}, "geometry": {"type": "Point", "coordinates": [126.9811591, 37.5603787]}},
+{ "type": "Feature", "properties": { "name": "CU 중구세종대로점 451016180"}, "geometry": {"type": "Point", "coordinates": [126.9763175, 37.5688262]}},
+{ "type": "Feature", "properties": { "name": "매머드익스프레스 을지로입구점 1736110132"}, "geometry": {"type": "Point", "coordinates": [126.9835696, 37.5672651]}},
+{ "type": "Feature", "properties": { "name": "이마트24 신세계본점 1353309385"}, "geometry": {"type": "Point", "coordinates": [126.980743, 37.5603276]}},
+{ "type": "Feature", "properties": { "name": "투썸플레이스 예금보험공사점 21056205"}, "geometry": {"type": "Point", "coordinates": [126.9809276, 37.5686242]}},
+{ "type": "Feature", "properties": { "name": "CU 페럼타워점 21856156"}, "geometry": {"type": "Point", "coordinates": [126.9841421, 37.567011]}}] }
